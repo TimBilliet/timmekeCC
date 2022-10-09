@@ -13,3 +13,4 @@ A user with this name is already online
 Flying is not enabled on this server
 Connection has been lost.
 Disconnected by Server : Flying is not enabled on this server
+You seem to be connected already
