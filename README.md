@@ -17,9 +17,9 @@ Give execute permisions with: chmod +x start.sh
 Run start.sh with: ./start.sh
 
 
-![image](https://user-images.githubusercontent.com/47719114/194757376-7d2650d6-4837-4047-ac13-ec1c9bf606be.png)
-
 Use screen -r to see all the active alts
+
+![image](https://user-images.githubusercontent.com/47719114/194757376-7d2650d6-4837-4047-ac13-ec1c9bf606be.png)
 
 Use screen -r alt1 to resume alt1's screen session
 
