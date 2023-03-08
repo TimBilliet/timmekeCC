@@ -17,7 +17,7 @@ Give execute permisions by running "chmod +x start.sh"
 Run start.sh with "./start.sh"
 
 
-Use "screen -r" to see all the active alts
+Use "screen -ls" to see all the active alts
 
 ![image](https://user-images.githubusercontent.com/47719114/194757376-7d2650d6-4837-4047-ac13-ec1c9bf606be.png)
 
