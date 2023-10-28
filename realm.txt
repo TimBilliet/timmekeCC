@@ -1,1 +1,1 @@
-/server creeper
+send /server creeper
