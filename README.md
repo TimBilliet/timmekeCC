@@ -27,4 +27,3 @@ Use "kill 4599" to close alt1's screen session or press CTRL + C when in the act
 
 Use "killall screen" to kill all active screens 
 
-It's possible to run this on a rpi 3
